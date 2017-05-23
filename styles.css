@@ -1,0 +1,47 @@
+h1 {
+			text-align: center;
+			font-size: 5em;
+			color: white;
+			text-transform: uppercase;
+			border-bottom: 10px solid white;
+			border-top: 10px solid white;
+			padding: 20px;
+			margin-top: 30px;
+			text-shadow: 5px 5px black;
+		}
+
+		section {
+			text-align: center;
+
+		}
+
+		article {
+			background-color: white;
+			padding: 10px;
+			margin: auto;
+			max-width: 65%;
+			border: 1px solid black;
+		}
+
+		h2 {
+			text-align: left;
+			color: black;		
+		}
+
+		.foot {
+			text-align: right;
+			font-weight: bold;
+			color: black;
+			font-size: .8em;
+		}
+
+		.footer {
+			text-align: center;
+			padding-top: 30px;
+			margin: auto;
+			color: white;
+		}
+
+		body {
+			background-color: #00475b;
+		}
